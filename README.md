@@ -50,7 +50,7 @@
 ## 🤝 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu_linkedin/">
+  <a href="https://www.linkedin.com/in/ulises-mateo-vargas-919bb531a/">
     <img src="https://badgen.net/badge/LinkedIn/ /0A66C2?icon=linkedin" />
   </a>
 </p>
